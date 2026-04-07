@@ -1,0 +1,44 @@
+ 
+****************************************
+Report : cell
+Design : pow4
+Version: W-2024.09
+Date   : Tue Apr  7 08:03:42 2026
+****************************************
+
+Attributes:
+    b - black box (unknown)
+    h - hierarchical
+    n - noncombinational
+    r - removable
+    u - contains unmapped logic
+
+Cell                      Reference       Library             Area  Attributes
+--------------------------------------------------------------------------------
+U11                       NAND2X0_RVT     saed32rvt_tt0p78vn40c
+                                                          1.524864  
+U12                       INVX1_RVT       saed32rvt_tt0p78vn40c
+                                                          1.270720  
+U13                       NAND2X0_RVT     saed32rvt_tt0p78vn40c
+                                                          1.524864  
+U14                       INVX1_RVT       saed32rvt_tt0p78vn40c
+                                                          1.270720  
+U15                       NOR2X0_RVT      saed32rvt_tt0p78vn40c
+                                                          2.541440  
+U16                       NOR2X0_RVT      saed32rvt_tt0p78vn40c
+                                                          2.541440  
+X_reg_reg[0]              DFFX1_RVT       saed32rvt_tt0p78vn40c
+                                                          6.607744  n
+X_reg_reg[1]              DFFX1_RVT       saed32rvt_tt0p78vn40c
+                                                          6.607744  n
+Y_reg[0]                  DFFX1_RVT       saed32rvt_tt0p78vn40c
+                                                          6.607744  n
+Y_reg[2]                  DFFX1_RVT       saed32rvt_tt0p78vn40c
+                                                          6.607744  n
+Y_reg[4]                  DFFX1_RVT       saed32rvt_tt0p78vn40c
+                                                          6.607744  n
+Y_reg[6]                  DFFX1_RVT       saed32rvt_tt0p78vn40c
+                                                          6.607744  n
+--------------------------------------------------------------------------------
+Total 12 cells                                            50.320513
+1

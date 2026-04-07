@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+# Simulate with Synopsys VCS if available, else fall back to Icarus Verilog
+set -euo pipefail
+
+RTL="../RTL/pow4.v"
+TB="pow4_tb.v"
+
+if command -v vcs &>/dev/null; then
+    echo "Using VCS..."
+    vcs -full64 -sverilog -timescale=1ns/1ps +v2k \
+        "${RTL}" "${TB}" -o simv
+    ./simv
+elif command -v iverilog &>/dev/null; then
+    echo "Using Icarus Verilog..."
+    iverilog -o pow4_sim "${RTL}" "${TB}"
+    vvp pow4_sim
+else
+    echo "ERROR: Neither vcs nor iverilog found in PATH."
+    exit 1
+fi

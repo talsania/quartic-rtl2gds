@@ -1,0 +1,294 @@
+*design* DebussyLib (btIdent Verdi_W-2024.09)
+Command arguments:
+    +define+verilog
+    -sv
+    pow4_tb.v
+    pow4_rtl.v
+    -vcd
+*Warning* Unknown argument -vcd
+
+    pow4.vcd
+
+
+*Error* Syntax error at $date
+"pow4.vcd", 1: 
+
+*Error* Syntax error at Sun
+"pow4.vcd", 2: 
+
+*Error* Syntax error at $end
+"pow4.vcd", 3: 
+
+*Error* Syntax error at $version
+"pow4.vcd", 5: 
+
+*Error* Syntax error at Synopsys
+"pow4.vcd", 6: 
+
+*Error* Syntax error at $end
+"pow4.vcd", 7: 
+
+*Error* Syntax error at $timescale
+"pow4.vcd", 9: 
+
+*Error* Syntax error at 1ps
+"pow4.vcd", 10: 
+
+*Error* Syntax error at $end
+"pow4.vcd", 11: 
+
+*Error* Syntax error at $comment
+"pow4.vcd", 13: 
+
+*Error* Syntax error at $scope
+"pow4.vcd", 16: 
+
+*Error* Syntax error at $var
+"pow4.vcd", 17: 
+
+*Error* Syntax error at $var
+"pow4.vcd", 18: 
+
+*Error* Syntax error at $var
+"pow4.vcd", 19: 
+
+*Error* Syntax error at $var
+"pow4.vcd", 20: 
+
+*Error* Syntax error at $var
+"pow4.vcd", 21: 
+
+*Error* Syntax error at $scope
+"pow4.vcd", 23: 
+
+*Error* Syntax error at $var
+"pow4.vcd", 24: 
+
+*Error* Syntax error at $var
+"pow4.vcd", 25: 
+
+*Error* Syntax error at $upscope
+"pow4.vcd", 26: 
+
+*Error* Syntax error at $scope
+"pow4.vcd", 29: 
+
+*Error* Syntax error at $var
+"pow4.vcd", 30: 
+
+*Error* Syntax error at $var
+"pow4.vcd", 31: 
+
+*Error* Syntax error at $var
+"pow4.vcd", 32: 
+
+*Error* Syntax error at $var
+"pow4.vcd", 33: 
+
+*Error* Syntax error at $var
+"pow4.vcd", 34: 
+
+*Error* Syntax error at $var
+"pow4.vcd", 35: 
+
+*Error* Syntax error at $var
+"pow4.vcd", 36: 
+
+*Error* Syntax error at $var
+"pow4.vcd", 37: 
+
+*Error* Syntax error at $var
+"pow4.vcd", 38: 
+
+*Error* Syntax error at $upscope
+"pow4.vcd", 39: 
+
+*Error* Syntax error at $upscope
+"pow4.vcd", 41: 
+
+*Error* Syntax error at $enddefinitions
+"pow4.vcd", 43: 
+
+*Error* Syntax error at #
+"pow4.vcd", 45: 
+
+*Error* Syntax error at $dumpvars
+"pow4.vcd", 46: 
+
+*Error* Syntax error at 0
+"pow4.vcd", 47: 
+
+*Error* Syntax error at 0
+"pow4.vcd", 48: 
+
+*Error* Syntax error at x
+"pow4.vcd", 49: 
+
+*Error* Syntax error at x
+"pow4.vcd", 50: 
+
+*Error* Syntax error at x
+"pow4.vcd", 51: 
+
+*Error* Syntax error at x
+"pow4.vcd", 52: 
+
+*Error* Syntax error at x
+"pow4.vcd", 53: 
+
+*Error* Syntax error at x
+"pow4.vcd", 54: 
+
+*Error* Syntax error at b00
+"pow4.vcd", 55: 
+
+*Error* Syntax error at b0000001
+"pow4.vcd", 56: 
+
+*Error* Syntax error at b0000001
+"pow4.vcd", 57: 
+
+*Error* Syntax error at b00
+"pow4.vcd", 58: 
+
+*Error* Syntax error at b00000000000000000000000000000000
+"pow4.vcd", 59: 
+
+*Error* Syntax error at b00000000000000000000000000000000
+"pow4.vcd", 60: 
+
+*Error* Syntax error at bxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+"pow4.vcd", 61: 
+
+*Error* Syntax error at $end
+"pow4.vcd", 62: 
+
+*Error* Syntax error at 1
+"pow4.vcd", 63: 
+
+*Error* Syntax error at 0
+"pow4.vcd", 64: 
+
+*Error* Syntax error at 0
+"pow4.vcd", 65: 
+
+*Error* Syntax error at 0.
+"pow4.vcd", 66: 
+
+*Error* Syntax error at 1
+"pow4.vcd", 67: 
+
+*Error* Syntax error at 1
+"pow4.vcd", 68: 
+
+*Error* Syntax error at #
+"pow4.vcd", 69: 
+
+*Error* Syntax error at b00000000000000000000000000000001
+"pow4.vcd", 70: 
+
+*Error* Syntax error at b01
+"pow4.vcd", 71: 
+
+*Error* Syntax error at b0000100
+"pow4.vcd", 72: 
+
+*Error* Syntax error at b01
+"pow4.vcd", 73: 
+
+*Error* Syntax error at 1
+"pow4.vcd", 74: 
+
+*Error* Syntax error at 0
+"pow4.vcd", 75: 
+
+*Error* Syntax error at 1
+"pow4.vcd", 76: 
+
+*Error* Syntax error at 0
+"pow4.vcd", 77: 
+
+*Error* Syntax error at b0000100
+"pow4.vcd", 78: 
+
+*Error* Syntax error at #
+"pow4.vcd", 79: 
+
+*Error* Syntax error at b00000000000000000000000000000010
+"pow4.vcd", 80: 
+
+*Error* Syntax error at b10
+"pow4.vcd", 81: 
+
+*Error* Syntax error at b0010000
+"pow4.vcd", 82: 
+
+*Error* Syntax error at b10
+"pow4.vcd", 83: 
+
+*Error* Syntax error at 0
+"pow4.vcd", 84: 
+
+*Error* Syntax error at 1
+"pow4.vcd", 85: 
+
+*Error* Syntax error at 0
+"pow4.vcd", 86: 
+
+*Error* Syntax error at 1
+"pow4.vcd", 87: 
+
+*Error* Syntax error at 1
+"pow4.vcd", 88: 
+
+*Error* Syntax error at 0
+"pow4.vcd", 89: 
+
+*Error* Syntax error at 1.
+"pow4.vcd", 90: 
+
+*Error* Syntax error at 0
+"pow4.vcd", 91: 
+
+*Error* Syntax error at b0010000
+"pow4.vcd", 92: 
+
+*Error* Syntax error at #
+"pow4.vcd", 93: 
+
+*Error* Syntax error at b00000000000000000000000000000011
+"pow4.vcd", 94: 
+
+*Error* Syntax error at b11
+"pow4.vcd", 95: 
+
+*Error* Syntax error at b1000000
+"pow4.vcd", 96: 
+
+*Error* Syntax error at b11
+"pow4.vcd", 97: 
+
+*Error* Syntax error at 1
+"pow4.vcd", 98: 
+
+*Error* Syntax error at 1
+"pow4.vcd", 99: 
+
+*Error* Syntax error at 0.
+"pow4.vcd", 100: 
+
+*Error* Syntax error at 0
+"pow4.vcd", 101: 
+
+*Error* Syntax error at b1000000
+"pow4.vcd", 102: 
+
+*Error* Syntax error at #
+"pow4.vcd", 103: 
+
+*Error* Syntax error at b00000000000000000000000000000100
+"pow4.vcd", 104: 
+Highest level modules:
+pow4_tb
+
+Total	93 error(s),   1 warning(s)

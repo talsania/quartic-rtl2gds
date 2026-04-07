@@ -1,0 +1,104 @@
+$date
+	Sun Apr  5 12:03:28 2026
+$end
+
+$version
+	Synopsys VCS version W-2024.09_Full64
+$end
+
+$timescale
+	1ps
+$end
+
+$comment Csum: 1 0d7037877267d02e $end
+
+
+$scope module pow4_tb $end
+$var reg 2 ! X [1:0] $end
+$var wire 7 " Y [6:0] $end
+$var integer 32 # exp $end
+$var integer 32 $ pass_cnt $end
+$var integer 32 % fail_cnt $end
+
+$scope task check $end
+$var reg 2 & in_x [1:0] $end
+$var reg 7 ' expected [6:0] $end
+$upscope $end
+
+
+$scope module uut $end
+$var wire 1 ( X [1] $end
+$var wire 1 ) X [0] $end
+$var wire 7 " Y [6:0] $end
+$var wire 1 * nx1 $end
+$var wire 1 + nx0 $end
+$var wire 1 , m0 $end
+$var wire 1 - m1 $end
+$var wire 1 . m2 $end
+$var wire 1 / m3 $end
+$upscope $end
+
+$upscope $end
+
+$enddefinitions $end
+
+#0
+$dumpvars
+0)
+0(
+x*
+x,
+x-
+x+
+x.
+x/
+b00 !
+b0000001 "
+b0000001 '
+b00 &
+b00000000000000000000000000000000 %
+b00000000000000000000000000000000 $
+bxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx #
+$end
+1,
+0/
+0-
+0.
+1*
+1+
+#10000
+b00000000000000000000000000000001 $
+b01 &
+b0000100 '
+b01 !
+1)
+0,
+1-
+0+
+b0000100 "
+#20000
+b00000000000000000000000000000010 $
+b10 &
+b0010000 '
+b10 !
+0)
+1,
+0-
+1+
+1(
+0,
+1.
+0*
+b0010000 "
+#30000
+b00000000000000000000000000000011 $
+b11 &
+b1000000 '
+b11 !
+1)
+1/
+0.
+0+
+b1000000 "
+#40000
+b00000000000000000000000000000100 $

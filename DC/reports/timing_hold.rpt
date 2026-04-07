@@ -1,0 +1,47 @@
+ 
+****************************************
+Report : timing
+        -path full
+        -delay min
+        -max_paths 1
+Design : pow4
+Version: W-2024.09
+Date   : Tue Apr  7 08:03:42 2026
+****************************************
+
+Operating Conditions: tt0p78vn40c   Library: saed32rvt_tt0p78vn40c
+Wire Load Model Mode: enclosed
+
+  Startpoint: X[0] (input port clocked by clk)
+  Endpoint: X_reg_reg[0]
+            (rising edge-triggered flip-flop clocked by clk)
+  Path Group: clk
+  Path Type: min
+
+  Des/Clust/Port     Wire Load Model       Library
+  ------------------------------------------------
+  pow4               ForQA                 saed32rvt_tt0p78vn40c
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  clock clk (rise edge)                    0.00       0.00
+  clock network delay (propagated)         0.00       0.00
+  input external delay                     0.20       0.20 f
+  X[0] (in)                                0.00       0.20 f
+  X_reg_reg[0]/D (DFFX1_RVT)               0.01       0.21 f
+  data arrival time                                   0.21
+
+  clock clk (rise edge)                    0.00       0.00
+  clock network delay (propagated)         0.02       0.02
+  clock uncertainty                        0.05       0.07
+  X_reg_reg[0]/CLK (DFFX1_RVT)             0.00       0.07 r
+  library hold time                       -0.02       0.05
+  data required time                                  0.05
+  -----------------------------------------------------------
+  data required time                                  0.05
+  data arrival time                                  -0.21
+  -----------------------------------------------------------
+  slack (MET)                                         0.16
+
+
+1

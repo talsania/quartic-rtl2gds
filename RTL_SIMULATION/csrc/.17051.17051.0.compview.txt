@@ -1,0 +1,7 @@
+Command exited with non-zero status 255
+{"vcs1":{"timestamp_begin":1775371043.585009109, "rt":10.08, "ut":0.04, "st":0.04}}
+{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1775371043.219096458}
+{"VCS_COMP_START_TIME": 1775371043.219096458}
+{"VCS_COMP_END_TIME": 1775371053.721964162}
+{"VCS_USER_OPTIONS": "-full64 -sverilog pow4_tb.v pow4_rtl.v -debug_access+all -kdb -l compile.log"}
+{"vcs1": {"peak_mem": 493124}}

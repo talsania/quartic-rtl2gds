@@ -1,0 +1,6 @@
+../ICCII/outputs/pow4_final.spef.p1_125.spef for scenarios: 
+	 scenario: func::nom, corner type: late
+
+../ICCII/outputs/pow4_final.spef.p2_125.spef for scenarios: 
+	 scenario: func::nom, corner type: early
+

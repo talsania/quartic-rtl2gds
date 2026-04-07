@@ -1,0 +1,121 @@
+0
+41
++itf+/home/synopsys_install/vcs/W-2024.09/linux64/lib/vcsdp_lite.tab
++vcsd1
++vpi
+-Mamsrun=
+-Masflags=
+-Mcc=gcc
+-Mcfl= -pipe -fPIC -O -I/home/synopsys_install/vcs/W-2024.09/include
+-Mcplusplus=g++
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mexternalobj=
+-Mldflags= -rdynamic
+-Mobjects= /home/synopsys_install/vcs/W-2024.09/linux64/lib/libvirsim.so /home/synopsys_install/vcs/W-2024.09/linux64/lib/liberrorinf.so /home/synopsys_install/vcs/W-2024.09/linux64/lib/libsnpsmalloc.so /home/synopsys_install/vcs/W-2024.09/linux64/lib/libvfs.so
+-Mout=simv
+-Msaverestoreobj=/home/synopsys_install/vcs/W-2024.09/linux64/lib/vcs_save_restore_new.o
+-Msyslibs=/home/synopsys_install/verdi/W-2024.09/share/PLI/VCS/LINUX64/pli.a -ldl
+-Mvcsaceobjs=
+-Mxcflags= -pipe -fPIC -I/home/synopsys_install/vcs/W-2024.09/include
+-Mxllcflags=
+-P
+-Xufe=2steps
+-Xufe=2steps
+-Xufe=2steps
+-Xufe=2steps
+-debug_access+all
+-fsdb
+-full64
+-gen_obj
+-kdb
+-kdb=common_elab
+-kdb=common_elab
+-kdb=common_elab
+-l
+-picarchive
+-sverilog
+/home/synopsys_install/vcs/W-2024.09/linux64/bin/vcs1
+compile.log
+/home/synopsys_install/verdi/W-2024.09/share/PLI/VCS/LINUX64/verdi.tab
+pow4_tb.v
+pow4_rtl.v
+63
+which_declare=declare -f
+XMODIFIERS=@im=ibus
+XDG_VTNR=2
+XDG_SESSION_TYPE=x11
+XDG_SESSION_ID=2
+XDG_SESSION_DESKTOP=gnome
+XDG_SEAT=seat0
+XDG_RUNTIME_DIR=/run/user/1000
+XDG_MENU_PREFIX=gnome-
+XDG_DATA_DIRS=/home/kris/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+XDG_CURRENT_DESKTOP=GNOME
+XAUTHORITY=/run/user/1000/gdm/Xauthority
+WINDOWPATH=2
+VTE_VERSION=5204
+VMR_MODE_FLAG=64
+VERDI_HOME=/home/synopsys_install/verdi/W-2024.09
+VCS_PYTHON3=/home/synopsys_install/vcs/W-2024.09/linux64/bin/Python3/bin/python3
+VCS_PATHMAP_PRELOAD_DONE=1
+VCS_MX_HOME_INTERNAL=1
+VCS_MODE_FLAG=64
+VCS_LOG_FILE=compile.log
+VCS_HOME=/home/synopsys_install/vcs/W-2024.09
+VCS_EXEC_DONE=1
+VCS_DEPTH=0
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH=linux64
+USERNAME=kris
+UNAME=/bin/uname
+TOOL_HOME=/home/synopsys_install/vcs/W-2024.09/linux64
+TERMINATOR_UUID=urn:uuid:18c313a3-bb8b-469e-ba55-4c8e7985d8b5
+TERMINATOR_DBUS_PATH=/net/tenshu/Terminator2
+TERMINATOR_DBUS_NAME=net.tenshu.Terminator23558193cd9818af7fe4d2c2f5bd9d00f
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
+SNPS_VERDI_INTERNAL_LP_XML_NEW_FLOW=1
+SNPS_VCS_VHDL_WRAPPER_KDB=1
+SNPS_VCS_PYTHON3=/home/synopsys_install/vcs/W-2024.09/linux64/bin/Python3/bin/python3
+SNPS_VCS_CLANG_PATH=/home/synopsys_install/vcs/W-2024.09/linux64/clang
+SNPS_INTERNAL_VCS_LINUX_OS=linux
+SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/2217,unix/unix:/tmp/.ICE-unix/2217
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+QT_IM_MODULE=ibus
+PRIME_HOME=/home/synopsys_install/prime/W-2024.09
+OVA_UUM=0
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+LC_ALL=C
+ICC_HOME=/home/synopsys_install/icc2/W-2024.09
+HISTCONTROL=ignoredups
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+GJS_DEBUG_TOPICS=JS ERROR;JS LOG
+GJS_DEBUG_OUTPUT=stderr
+GIO_LAUNCHED_DESKTOP_FILE_PID=11281
+GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/terminator.desktop
+GDM_LANG=en_US.UTF-8
+GDMSESSION=gnome
+GDK_BACKEND=x11
+FLEXLM_DIAGNOSTICS=3
+DESKTOP_SESSION=gnome
+DC_HOME=/home/synopsys_install/syn/W-2024.09
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+COLORTERM=truecolor
+BASH_FUNC_which%%=() {  ( alias;_ eval ${which_declare} ) | /usr/bin/which --tty-only --read-alias --read-functions --show-tilde --show-dot $@_}
+0
+0
+4
+1775398463 pow4_rtl.v
+1775398498 pow4_tb.v
+1723953532 /home/synopsys_install/verdi/W-2024.09/share/PLI/VCS/LINUX64/verdi.tab
+1725332768 /home/synopsys_install/vcs/W-2024.09/linux64/lib/vcsdp_lite.tab
+4
+1725336088 /home/synopsys_install/vcs/W-2024.09/linux64/lib/libvirsim.so
+1725334290 /home/synopsys_install/vcs/W-2024.09/linux64/lib/liberrorinf.so
+1725334282 /home/synopsys_install/vcs/W-2024.09/linux64/lib/libsnpsmalloc.so
+1725334269 /home/synopsys_install/vcs/W-2024.09/linux64/lib/libvfs.so
+1775398524 simv.daidir
+-1 partitionlib

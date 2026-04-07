@@ -1,0 +1,16 @@
+<Database>
+versionNumber:2
+Name/home/kris/RTL2GDSII_POW4/ICCII/check_design.ems
+Creation TimeTue Apr  7 09:47:50 2026
+Modified TimeTue Apr  7 09:47:50 2026
+Design Namepow4
+Library NamePOW4_LIB
+</Database>
+<RuleCount>
+DFT-0111
+</RuleCount>
+<UserDefinedRules>
+</UserDefinedRules>
+<Messages>
+DFT-011Informationreason10
+</Messages>

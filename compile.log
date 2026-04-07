@@ -1,0 +1,7 @@
+Command: vcs -full64 -sverilog pow4_tb.v pow4_rtl.v -debug_access+all -kdb -l compile.log \
+
+
+Error-[FILE_CANT_FIND_ERR] File not found
+  File "pow4_tb.v" does not exist or read permission denied
+  Make sure the file "pow4_tb.v" exists and has read permissions.
+

@@ -1,0 +1,9 @@
+{"vcs1":{"timestamp_begin":1775371151.910926024, "rt":8.91, "ut":0.11, "st":0.12}}
+{"vcselab":{"timestamp_begin":1775371160.880537051, "rt":9.97, "ut":0.08, "st":0.03}}
+{"link":{"timestamp_begin":1775371170.896662850, "rt":0.16, "ut":0.09, "st":0.05}}
+{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1775371151.558752018}
+{"VCS_COMP_START_TIME": 1775371151.558752018}
+{"VCS_COMP_END_TIME": 1775371171.160657326}
+{"VCS_USER_OPTIONS": "-full64 -sverilog pow4_tb.v pow4_rtl.v -debug_access+all -kdb -l compile.log"}
+{"vcs1": {"peak_mem": 493516}}
+{"vcselab": {"peak_mem": 178884}}
