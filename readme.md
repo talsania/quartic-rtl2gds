@@ -107,4 +107,4 @@ Parasitics back-annotated from SPEF at 125°C (late and early corners).
 
 ***
 
-Check out my report ![here](https://drive.google.com/file/d/1gZKMOM7ABVKWsQFsiBXRFsng481yPKYs/).
+Check out the report [here](https://drive.google.com/file/d/1gZKMOM7ABVKWsQFsiBXRFsng481yPKYs/).
